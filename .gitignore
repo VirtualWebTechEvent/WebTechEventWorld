@@ -101,3 +101,6 @@ crashlytics-build.properties
 /[Aa]ssets/VRCBilliardsCE*
 /[Aa]ssets/TextMesh Pro*
 /[Aa]ssets/QvPen*
+
+# 購入アセット
+/[Aa]ssets/イベント会場 H8*
