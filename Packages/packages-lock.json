@@ -122,8 +122,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.6",
-      "depth": 1,
+      "version": "3.0.9",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
@@ -216,6 +216,12 @@
         "com.unity.inputsystem": "1.2.0",
         "com.unity.ai.navigation": "1.1.5"
       }
+    },
+    "io.github.azukimochi.taa-gathering-list-system": {
+      "version": "file:io.github.azukimochi.taa-gathering-list-system",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "net.ureishi.qvpen": {
       "version": "file:net.ureishi.qvpen",

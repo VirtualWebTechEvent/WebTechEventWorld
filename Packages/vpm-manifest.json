@@ -11,6 +11,9 @@
     },
     "net.ureishi.qvpen": {
       "version": "3.2.14"
+    },
+    "io.github.azukimochi.taa-gathering-list-system": {
+      "version": "2.0.2"
     }
   },
   "locked": {
@@ -32,6 +35,12 @@
       "version": "3.2.14",
       "dependencies": {
         "com.vrchat.worlds": "^3.4.0"
+      }
+    },
+    "io.github.azukimochi.taa-gathering-list-system": {
+      "version": "2.0.2",
+      "dependencies": {
+        "com.vrchat.worlds": ">=3.2.0"
       }
     }
   }
