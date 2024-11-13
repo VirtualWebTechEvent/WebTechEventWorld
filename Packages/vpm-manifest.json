@@ -9,11 +9,11 @@
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
     },
-    "net.ureishi.qvpen": {
-      "version": "3.2.14"
-    },
     "io.github.azukimochi.taa-gathering-list-system": {
       "version": "2.0.2"
+    },
+    "net.ureishi.qvpen": {
+      "version": "3.2.15"
     }
   },
   "locked": {
@@ -31,16 +31,16 @@
       "version": "0.1.29",
       "dependencies": {}
     },
-    "net.ureishi.qvpen": {
-      "version": "3.2.14",
-      "dependencies": {
-        "com.vrchat.worlds": "^3.4.0"
-      }
-    },
     "io.github.azukimochi.taa-gathering-list-system": {
       "version": "2.0.2",
       "dependencies": {
         "com.vrchat.worlds": ">=3.2.0"
+      }
+    },
+    "net.ureishi.qvpen": {
+      "version": "3.2.15",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.4.0"
       }
     }
   }
