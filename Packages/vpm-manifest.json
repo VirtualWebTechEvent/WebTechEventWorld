@@ -14,6 +14,9 @@
     },
     "net.ureishi.qvpen": {
       "version": "3.2.15"
+    },
+    "vrchat.jordo.easyquestswitch": {
+      "version": "1.4.0"
     }
   },
   "locked": {
@@ -42,6 +45,10 @@
       "dependencies": {
         "com.vrchat.worlds": "^3.4.0"
       }
+    },
+    "vrchat.jordo.easyquestswitch": {
+      "version": "1.4.0",
+      "dependencies": {}
     }
   }
 }

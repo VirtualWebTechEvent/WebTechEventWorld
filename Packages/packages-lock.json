@@ -229,6 +229,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "vrchat.jordo.easyquestswitch": {
+      "version": "file:vrchat.jordo.easyquestswitch",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
