@@ -18205,6 +18205,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WorldMegaphonePrefab_Green
       objectReference: {fileID: 0}
+    - target: {fileID: 7247911588734820906, guid: 661207c68b407ff4ea1c4355485bfe2e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20177,7 +20182,7 @@ PrefabInstance:
     - target: {fileID: 138212400482520657, guid: 8a045e33b9ac424db8246b3f8ff775ee,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.52
+      value: 10.39
       objectReference: {fileID: 0}
     - target: {fileID: 138212400482520657, guid: 8a045e33b9ac424db8246b3f8ff775ee,
         type: 3}
@@ -47421,12 +47426,6 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 2100000, guid: ccb30abfd99939c10babc5cf9fbc4851, type: 2}
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  - {fileID: 2100000, guid: 5a56356410718164f92d61c4fbbd53ff, type: 2}
-  - {fileID: 2100000, guid: 644abd1f4311b3d4993bbc54618ea7b6, type: 2}
-  - {fileID: 2100000, guid: 62477314e72bf4bd481ccdc9a281bd3e, type: 2}
   - {fileID: 2100000, guid: e86e7281176dae945bd655f34805ed55, type: 2}
   - {fileID: 2100000, guid: 3f13a5d1eb038764b804d1aabffed55f, type: 2}
   - {fileID: 2100000, guid: 419ae9fed5372564c995339c60fd7ebf, type: 2}
@@ -47447,11 +47446,16 @@ MonoBehaviour:
   - {fileID: 2100000, guid: b3889ddf2a4bd9346a4843eb47e0acb1, type: 2}
   - {fileID: 2100000, guid: b24ed807dd7dc224baf5390f46738647, type: 2}
   - {fileID: 2100000, guid: 51d72acecdb1ba249957953415f8e29b, type: 2}
+  - {fileID: 2100000, guid: 5a56356410718164f92d61c4fbbd53ff, type: 2}
+  - {fileID: 2100000, guid: ccb30abfd99939c10babc5cf9fbc4851, type: 2}
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: 2100000, guid: 62477314e72bf4bd481ccdc9a281bd3e, type: 2}
   - {fileID: 2100000, guid: c815f7613a04b724089c206857e57c6a, type: 2}
-  - {fileID: 2100000, guid: 112f2b94f4ac1644ca1e7c0d71d3299a, type: 2}
+  - {fileID: 2100000, guid: 644abd1f4311b3d4993bbc54618ea7b6, type: 2}
   - {fileID: 2100000, guid: 644831e39d4a423418adfb376aefc939, type: 2}
   - {fileID: 2100000, guid: 5329b93b701f5e44db2206ed076328a5, type: 2}
   - {fileID: 2100000, guid: 176f20df8e7d4cc40adadbd30b9becc3, type: 2}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 2100000, guid: fc0847718d3f3534ca9f6c9aa6c2f6c5, type: 2}
   - {fileID: 2100000, guid: b09383bcaac26754c8cecbad3cdbeb46, type: 2}
   - {fileID: 2100000, guid: 5adde61cee2bc4e498705383ae9e46bc, type: 2}
