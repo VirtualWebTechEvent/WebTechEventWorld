@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.vrchat.base": {
-      "version": "3.7.3"
-    },
-    "com.vrchat.worlds": {
-      "version": "3.7.3"
-    },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
     },
@@ -17,19 +11,15 @@
     },
     "vrchat.jordo.easyquestswitch": {
       "version": "1.4.0"
+    },
+    "com.vrchat.base": {
+      "version": "3.7.4"
+    },
+    "com.vrchat.worlds": {
+      "version": "3.7.4"
     }
   },
   "locked": {
-    "com.vrchat.base": {
-      "version": "3.7.3",
-      "dependencies": {}
-    },
-    "com.vrchat.worlds": {
-      "version": "3.7.3",
-      "dependencies": {
-        "com.vrchat.base": "3.7.3"
-      }
-    },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29",
       "dependencies": {}
@@ -49,6 +39,16 @@
     "vrchat.jordo.easyquestswitch": {
       "version": "1.4.0",
       "dependencies": {}
+    },
+    "com.vrchat.base": {
+      "version": "3.7.4",
+      "dependencies": {}
+    },
+    "com.vrchat.worlds": {
+      "version": "3.7.4",
+      "dependencies": {
+        "com.vrchat.base": "3.7.4"
+      }
     }
   }
 }
