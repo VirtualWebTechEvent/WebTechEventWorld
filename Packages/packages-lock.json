@@ -223,6 +223,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "net.kwxxw.yama-stream": {
+      "version": "file:net.kwxxw.yama-stream",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "net.ureishi.qvpen": {
       "version": "file:net.ureishi.qvpen",
       "depth": 0,
