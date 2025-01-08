@@ -19,7 +19,7 @@
       "version": "3.7.4"
     },
     "net.kwxxw.yama-stream": {
-      "version": "1.5.2"
+      "version": "1.5.6"
     }
   },
   "locked": {
@@ -54,7 +54,7 @@
       }
     },
     "net.kwxxw.yama-stream": {
-      "version": "1.5.2",
+      "version": "1.5.6",
       "dependencies": {
         "com.vrchat.worlds": ">=3.7.1"
       }
